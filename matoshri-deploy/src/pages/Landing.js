@@ -222,7 +222,3 @@ export default function Landing() {
     </div>
   );
 }
-
-
-can we change this and make it more proumt apple tesla feel
-motion graphics and all
